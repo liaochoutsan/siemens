@@ -18,7 +18,7 @@ the "Connected" industries.
 
 ## Examples
 - [Start Simulation](http://34.81.108.66:9001/) Click the button to start the online simulation Username: simulation / Password: novakon
-- [Software Tutorial](https://www.novakon.com.tw/en/software/detail/iM_Connect) Videos, How to use application.
+- [Software Tutorial](https://www.novakon.com.tw/en/software/detail/iM_Connect) Select Software Tutorial to watch video tutorial.
   
 ## License
 
