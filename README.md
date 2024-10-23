@@ -13,6 +13,8 @@ This is Web-based Application Intelligent application.
 
 ## Installation
 
+## License
+
 ### Prerequisites
 
 Ensure you have the following installed:
@@ -27,6 +29,3 @@ Clone the repository and install the dependencies:
 git clone https://github.com/username/project-name.git
 cd project-name
 npm install  # or another appropriate package manager, e.g., pip, yarn
-
-
-## License
