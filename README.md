@@ -27,3 +27,6 @@ Clone the repository and install the dependencies:
 git clone https://github.com/username/project-name.git
 cd project-name
 npm install  # or another appropriate package manager, e.g., pip, yarn
+
+
+## License
