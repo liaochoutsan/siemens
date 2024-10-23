@@ -1,6 +1,9 @@
 <img src="images/logo.png" alt="Project Logo" width="500"/>
 
-This is Web-based Application Intelligent application.
+iM-Connect® is a web-based and simple-to-use programming software developed by NOVAKON Co., Ltd., 
+that supports a variety of industrial communication protocols, PLC drivers, and IIOT cloud 
+connections as a simple but reliable protocol conversion and data acquisition platform for 
+the "Connected" industries.
 
 ## Table of Contents
 
