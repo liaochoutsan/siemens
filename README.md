@@ -1,4 +1,4 @@
-![Project Logo](images/logo.png)
+<img src="images/logo.png" alt="Project Logo" width="200"/>
 
 This is Web-based Application Intelligent application.
 
