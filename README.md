@@ -16,6 +16,11 @@ the "Connected" industries.
 
 ## Installation
 
+## Examples
+-[Start Simulation](http://34.81.108.66:9001/)
+Click the button to start the online simulation
+Username: simulation / Password: novakon
+
 ## License
 
 ### Prerequisites
