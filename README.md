@@ -1,6 +1,6 @@
-# Project Name
+# iM-CONNECT
 
-A brief description of the project, what it does, and its key features.
+This is Web-based Application Intelligent application.
 
 ## Table of Contents
 
