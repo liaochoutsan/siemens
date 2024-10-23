@@ -1,4 +1,4 @@
-<img src="images/logo.png" alt="Project Logo" width="200"/>
+<img src="images/logo.png" alt="Project Logo" width="500"/>
 
 This is Web-based Application Intelligent application.
 
