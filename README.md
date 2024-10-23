@@ -1,3 +1,4 @@
+![Project Logo](images/logo.png)
 # iM-CONNECT
 
 This is Web-based Application Intelligent application.
